@@ -1,5 +1,4 @@
 # iot-multinode-dashboard
-
 A modular, LAN-based IoT framework featuring multi-MCU firmware (ESP32, STM32, etc.), web dashboard, mobile apps, and hardware PCB designs.
 
 ## 🧭 Project Navigation (快速导航)
