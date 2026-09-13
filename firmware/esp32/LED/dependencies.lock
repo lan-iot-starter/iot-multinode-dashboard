@@ -1,0 +1,17 @@
+dependencies:
+  idf:
+    source:
+      type: idf
+    version: 5.1.7
+  led_strip:
+    dependencies: []
+    source:
+      path: /workspaces/espidf/Project/LED/components/led_strip
+      type: local
+    version: 3.0.3
+direct_dependencies:
+- espressif/led_strip
+- idf
+manifest_hash: cc2ef8d76789332621e61c5a7a61af997a8b44c7f3fc60d044c195b618a3164d
+target: esp32s3
+version: 2.0.0
